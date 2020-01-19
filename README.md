@@ -8,4 +8,4 @@ Coded By : a-asaker.
 
 Using The Keyboard Arrow Keys [ Up-Down-Left-Right ].
 
-<img src=''> </img>
+<img src='snake.png'> </img>
