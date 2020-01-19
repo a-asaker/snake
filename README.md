@@ -6,6 +6,6 @@ Coded By : a-asaker.
 
 # How To Play:
 
-Using The Keyboard Arrow Keys [ Up-Down-Left-Right ].
+Using The Keyboard Arrow Keys [ `Up`-`Down`-`Left`-`Right` ].
 
 <img src='snake.png'> </img>
