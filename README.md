@@ -1,6 +1,6 @@
 # Snake Game
 
-Snake Game With Python Curses. For Linux Only. For Windows Users, You May Want to Try `windows-curses` Module.
+Snake Game With Python Curses For Uniux Based Systems. For Windows Users, You May Want to Try `windows-curses` Module.
 
 Coded By : a-asaker.
 
